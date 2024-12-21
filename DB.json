@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "email": "oumaimaoumaima@gmail.com",
+      "password": "$2a$10$TA3.N2GUZdkjqMqeNrcDkeeF88dvef1ZvEo.G5aG.eT6/aRAKO75C",
+      "name": "oumaima",
+      "username": "oumaima",
+      "role": "ROLE_ADMIN",
+      "id": 1
+    },
+    {
+      "email": "boubou@example.com",
+      "password": "$2a$10$sIArYKyg9RgJj9Bn.y1vVuS6t7skTuH6ombOVH9Ez7wt16D3DxF6m",
+      "role": "user",
+      "name": "boubou",
+      "surname": "baka",
+      "id": 2
+    },
+    {
+      "email": "oumaimagaidi@gmail.com",
+      "password": "$2a$10$6tEr.XPggTWh.p6YcUtkjeHFbSHRq7fHmvyXR3JlUYlIwhT7taQnC",
+      "name": "oumaima",
+      "username": "gaidi",
+      "role": "ROLE_ADMIN",
+      "id": 3
+    }
+  ],
+  "otherCollections": []
+}
